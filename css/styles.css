@@ -1,0 +1,9 @@
+#what-are-you {
+  display: none;
+  margin-top: 20px;
+}
+
+span {
+  color: red;
+  font-style: italic;
+}

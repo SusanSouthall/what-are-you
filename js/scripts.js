@@ -19,31 +19,9 @@ $(document).ready(function() {
       }
 
       $("#what-are-you").text(yourJob);
-      // $(".pirate-job").text(pirateInput);
-      // $(".alien-job").text(alienInput);
 
 
 
       event.preventDefault();
     });
   });
-
-    //
-    // $(".ninja-job").text(ninjaInput);
-    // $(".pirate-job").text(pirateInput);
-    // $(".alien-job").text(alieanInput);
-    //
-
-    //
-    // $("#story").show();
-    //
-    // if $(userInput >= 3) {
-    //   alert("you are a ninja");
-    // }else if {
-    //   (userInput >=)
-    // }
-//
-//     event.preventDefault();
-//   })
-//
-// });
